@@ -1,0 +1,14 @@
+{
+  "name": "arctium-plugins",
+  "description": "Internal Arctium Energy skills for prospecting and outreach (BESS/ESI, trade shows, ClickUp logging).",
+  "owner": {
+    "name": "Ming"
+  },
+  "plugins": [
+    {
+      "name": "arctium-sales-tools",
+      "source": "./plugins/arctium-sales-tools",
+      "description": "Arctium Energy prospecting and outreach skills: ESI/BESS location prospecting, trade show pipeline, cold outreach email drafting, and shared ClickUp task logging."
+    }
+  ]
+}
